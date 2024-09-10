@@ -1,6 +1,6 @@
 # Lecture notes on "Urban Economics"
 
-**© Gabriel M. Ahlfeldt, Tobias Seidel**
+**© Gabriel M. Ahlfeldt**
 
 Last updated: 2024
 

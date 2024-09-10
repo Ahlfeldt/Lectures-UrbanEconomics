@@ -10,3 +10,9 @@ These lecture slides were used during the first part of the course "Applied Urba
 
 Ahlfeldt, Gabriel M. (2024): Lecture notes on "Urban Economics". https://github.com/Ahlfeldt/Lectures-UrbanEconomics 
 
+## Files and Folders
+
+| Directory | File | Description  | Additional Information |
+| --- | --- | --- | --- |
+| `matlab/data/input` | | Folder containing required data inputs to execute this toolkit | -|
+| `matlab/figs` | | Folder containing figures and maps  |Will be populated while you execute the MATLAB programs |

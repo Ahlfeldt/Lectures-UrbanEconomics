@@ -14,5 +14,5 @@ Ahlfeldt, Gabriel M. (2024): Lecture slides on "Urban Economics". https://github
 
 | Directory | File | Description  | Additional Information |
 | --- | --- | --- | --- |
-| `matlab/data/input` | | Folder containing required data inputs to execute this toolkit | -|
-| `matlab/figs` | | Folder containing figures and maps  |Will be populated while you execute the MATLAB programs |
+| `slides` | | Folder slecture slides | -|
+| `slides/Ahlfeldt_-_Urban_Economics_-_XX` | | Lecture slides on topic XX  | - |

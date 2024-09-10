@@ -15,4 +15,4 @@ Ahlfeldt, Gabriel M. (2024): Lecture slides on "Urban Economics". https://github
 | Directory | File | Description  | Additional Information |
 | --- | --- | --- | --- |
 | `slides` | | Folder slecture slides | -|
-| `slides/Ahlfeldt_-_Urban_Economics_-_XX` | | Lecture slides on topic XX  | - |
+| `slides` | `Ahlfeldt_-_Urban_Economics_-_XX' | Lecture slides on topic XX  | - |

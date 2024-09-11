@@ -10,6 +10,8 @@ These lecture slides were used during the first part of the course Applied Urban
 
 **Ahlfeldt, Gabriel M. (2024): Lecture slides on "Urban Economics". https://github.com/Ahlfeldt/Lectures-UrbanEconomics** 
 
+**I hope you understand that due to time constraints, I cannot provide further explanations or feedback since I am not currently teaching the course**
+
 ## Files and Folders
 
 | Directory | File | Description  | Additional Information |

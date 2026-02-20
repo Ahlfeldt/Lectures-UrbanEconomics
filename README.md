@@ -14,7 +14,7 @@ These lecture slides were used during the first part of the course Applied Urban
 
 ## Files and Folders
 
-| Directory | File | lecture  |
+| Directory | File | Descroption  |
 | --- | --- | --- | 
-| `slides` | | Folder slecture slides |
+| `slides` | - | Folder containing lecture slides | 
 | `slides` | `Topic_01` | Regional and urban econcentration forces |

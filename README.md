@@ -14,7 +14,7 @@ These lecture slides were used during the first part of the course Applied Urban
 
 ## Files and Folders
 
-| Directory | File | Description  | Additional Information |
-| --- | --- | --- | --- |
-| `slides` | | Folder slecture slides | -|
-| `slides` | `Ahlfeldt_-_Urban_Economics_-_XX` | Lecture slides on topic XX  | - |
+| Directory | File | lecture  |
+| --- | --- | --- | 
+| `slides` | | Folder slecture slides |
+| `slides` | `Topic_01` | Regional and urban econcentration forces |

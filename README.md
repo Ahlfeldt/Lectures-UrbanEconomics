@@ -18,3 +18,12 @@ These lecture slides were used during the first part of the course Applied Urban
 | --- | --- | --- | 
 | `slides` | - | Folder containing lecture slides | 
 | `slides` | `Topic_01` | Regional and urban econcentration forces |
+| `slides` | `Topic_02` | The empirics of agglomeration |
+| `slides` | `Topic_03` | Costs and benefits of agglomeration |
+| `slides` | `Topic_04` | The monocentric city model I |
+| `slides` | `Topic_05` | The monocentric city model II |
+| `slides` | `Topic_06` | Firm location choice |
+| `slides` | `Topic_07` | The urban economy in general equilibrium |
+| `slides` | `Topic_08` | The vertical dimension of cities |
+| `slides` | `Topic_09` | Suburbanization and gentrification |
+| `slides` | `Topic_10` | Spatial inequalities |
